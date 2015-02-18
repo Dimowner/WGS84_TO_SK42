@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Преобразование WGS84 в SK42</string>
+	<string name="title_activity_maps">Карта</string>
+	<string name="wgs84_coordinates">WGS84:\n</string>
+	<string name="sk42_coordinates">SK42:\n</string>
+	<string name="inverse_wgs84_coordinates">Обратные с SK42 в WGS84:\n</string>
+	<string name="latitude">Широта:</string>
+	<string name="longitude">Долгота:</string>
+	<string name="marker">Маркер</string>
+	<string name="select_the_point">Укажите точку на карте</string>
+
+</resources>
